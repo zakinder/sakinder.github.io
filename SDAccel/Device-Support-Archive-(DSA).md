@@ -37,7 +37,7 @@ set_property dsa.pcie_id_device "0x8038" [current_project]
 set_property dsa.pcie_id_subsystem "0x0011" [current_project]
 set_property dsa.board_name "alpha-data.com:adm-pcie3-ku3:1.0" [current_project]
 set_property dsa.board_interface_type "gen3x8" [current_project]
-set_property dsa.board_memories {{ddr3 8GB} {ddr4 16GB} [current_project]
+set_property dsa.board_memories ddr3 8GBddr4 16GB [current_project]
 set_property dsa.board_interface_name "PCIe" [current_project]
 set_property dsa.board_vendor "alpha-data.com" [current_project]
 ```
