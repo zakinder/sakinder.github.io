@@ -15,7 +15,7 @@ while maintaining and reusing their OpenCL, C, and C++ code in a familiar workfl
 * UG909 : VIVADO DESIGN SUITE USER GUIDE: PARTIAL RECONFIGURATION
 * UG899 : VIVADO DESIGN SUITE USER GUIDE: I/O AND CLOCK PLANNING
 * UG906 : VIVADO DESIGN SUITE USER GUIDE: DESIGN ANALYSIS AND CLOSURE TECHNIQUES
-
+ 
 
 ## Nimbix HPC Cloud-based SDAccel Environment:
 * https://www.nimbix.net/xilinx/
